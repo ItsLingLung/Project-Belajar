@@ -1,6 +1,25 @@
 RENCANA MATERI UNTUK BELAJAR
 
 - HTML
+  * (<!DOCTYPE html>)
+    ^ Menunjukkan sebagai bahwa file ini adalah sebuah html
+
+  * HTML (<html>)
+    ^ Sebagai pembukaan dan penutup dari code HTML
+
+  * Heading (<head>)
+    ^ • Title (<title>)
+ 
+
+  * Body (<body>)
+    ^  • Heading (<h1>)
+        
+       • Paragraf (<p>)
+    
+       • Link (<a>)
+    
+       • Image (<img>)
+
 - Javascript
 - CSS
 - Java
