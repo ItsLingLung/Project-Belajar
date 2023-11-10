@@ -1,0 +1,37 @@
+RENCANA MATERI UNTUK BELAJAR
+
+- HTML
+  * (<!DOCTYPE html>)
+    ^ Menunjukkan sebagai bahwa file ini adalah sebuah html
+
+  * HTML (<html>)
+    ^ Sebagai pembukaan dan penutup dari code HTML
+
+  * Heading (<head>)
+    ^ # Title (<title>)
+        - Ini adalah judul buat menamakan tab di browser
+
+  * Body (<body>)
+    ^  # Heading (<h1>)
+        - Heading bisa sampai 1-6
+
+       # Paragraf (<p>)
+        - Seperti paragraf, Code ini dapat memisahkan kalimat kalimat yang awalannya menggabung menjadi terpisah
+
+       # Link (<a>)
+        - Code ini dapat menambahkan sebuah "link" di dalam kaliat, biasanya teks tersebut berubah menjadi warna biru
+          code tersebut seperti (<a href="">)
+
+       # Image (<img>)
+        - Code ini mirip seperti link, tetapi image ini dapat memunculkan sebuah gambar di dalam html yang kita buat, jadi kita tidak perlu menekan sesuatu seperti link
+          code tersebut seperti (<img src="" alt="" width="" height="">)
+          ^ makna masing masing:
+            • src = source
+            • alt = alternatif
+            • width = lebar gambar
+            • height = tinggi gambar
+
+- Javascript
+- CSS
+- Java
+- C++
